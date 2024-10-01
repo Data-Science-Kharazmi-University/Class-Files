@@ -1,0 +1,48 @@
+[submodule "Users/Amirhosein-Hashemy"]
+	path = Users/Amirhosein-Hashemy
+	url = git@github.com:Data-Science-Kharazmi-University/Amirhosein-Hashemy.git
+[submodule "Users/AmirMohammad-HoseiniNasab"]
+	path = Users/AmirMohammad-HoseiniNasab
+	url = git@github.com:Data-Science-Kharazmi-University/AmirMohammad-HoseiniNasab.git
+[submodule "Users/MohammadReza-Razavian"]
+	path = Users/MohammadReza-Razavian
+	url = git@github.com:Data-Science-Kharazmi-University/MohammadReza-Razavian.git
+[submodule "Users/Amirhosein-AminNegareshy"]
+	path = Users/Amirhosein-AminNegareshy
+	url = git@github.com:Data-Science-Kharazmi-University/Amirhosein-AminNegareshy.git
+[submodule "Users/Amirhosein-Kazazy"]
+	path = Users/Amirhosein-Kazazy
+	url = git@github.com:Data-Science-Kharazmi-University/Amirhosein-Kazazy.git
+[submodule "Users/Ali-Amini"]
+	path = Users/Ali-Amini
+	url = git@github.com:Data-Science-Kharazmi-University/Ali-Amini.git
+[submodule "Users/Mahbod-Ghadiry"]
+	path = Users/Mahbod-Ghadiry
+	url = git@github.com:Data-Science-Kharazmi-University/Mahbod-Ghadiry.git
+[submodule "Users/Mohammad-Mohammady"]
+	path = Users/Mohammad-Mohammady
+	url = git@github.com:Data-Science-Kharazmi-University/Mohammad-Mohammady.git
+[submodule "Users/Kiana-Noushifar"]
+	path = Users/Kiana-Noushifar
+	url = git@github.com:Data-Science-Kharazmi-University/Kiana-Noushifar.git
+[submodule "Users/Danial-Azimy"]
+	path = Users/Danial-Azimy
+	url = git@github.com:Data-Science-Kharazmi-University/Danial-Azimy.git
+[submodule "Users/Mohammad-Ghadery"]
+	path = Users/Mohammad-Ghadery
+	url = git@github.com:Data-Science-Kharazmi-University/Mohammad-Ghadery.git
+[submodule "Users/Arman-Rostamy"]
+	path = Users/Arman-Rostamy
+	url = git@github.com:Data-Science-Kharazmi-University/Arman-Rostami.git
+[submodule "Users/Mohammad-Ashtiany"]
+	path = Users/Mohammad-Ashtiany
+	url = git@github.com:Data-Science-Kharazmi-University/Mohammad-Ashtiany.git
+[submodule "Users/Yousef-Osanloo"]
+	path = Users/Yousef-Osanloo
+	url = git@github.com:Data-Science-Kharazmi-University/Yousef-Osanloo.git
+[submodule "Users/Mehrdad-Aramesh"]
+	path = Users/Mehrdad-Aramesh
+	url = git@github.com:Data-Science-Kharazmi-University/Mehrdad-Aramesh.git
+[submodule "Users/Parya-Parvan"]
+	path = Users/Parya-Parvan
+	url = git@github.com:Data-Science-Kharazmi-University/Parya-Parvan.git
