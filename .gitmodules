@@ -46,3 +46,9 @@
 [submodule "Users/Parya-Parvan"]
 	path = Users/Parya-Parvan
 	url = git@github.com:Data-Science-Kharazmi-University/Parya-Parvan.git
+[submodule "Users/Bahar-Mostafaey"]
+	path = Users/Bahar-Mostafaey
+	url = git@github.com:Data-Science-Kharazmi-University/Bahar-Mostafaey.git
+[submodule "Users/Zahra-Zamany"]
+	path = Users/Zahra-Zamany
+	url = git@github.com:Data-Science-Kharazmi-University/Zahra-Zamany.git
