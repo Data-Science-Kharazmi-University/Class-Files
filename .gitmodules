@@ -64,3 +64,6 @@
 [submodule "Users/Reyhane-Bonyady"]
 	path = Users/Reyhane-Bonyady
 	url = git@github.com:Data-Science-Kharazmi-University/Reyhane-Bonyady.git
+[submodule "Users/Aida-Bashirian"]
+	path = Users/Aida-Bashirian
+	url = git@github.com:Data-Science-Kharazmi-University/Aida-Bashirian.git
