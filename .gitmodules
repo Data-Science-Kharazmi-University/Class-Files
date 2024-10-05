@@ -73,3 +73,12 @@
 [submodule "Users/Mobin-Ghahremanian"]
 	path = Users/Mobin-Ghahremanian
 	url = git@github.com:Data-Science-Kharazmi-University/Mobin-Ghahremanian.git
+[submodule "Users/Armin-Jodat"]
+	path = Users/Armin-Jodat
+	url = git@github.com:Data-Science-Kharazmi-University/Armin-Jodat.git
+[submodule "Users/Mohammad-Vafaiy"]
+	path = Users/Mohammad-Vafaiy
+	url = git@github.com:Data-Science-Kharazmi-University/Mohammad-Vafaiy.git
+[submodule "Users/Qhazal-Ebady"]
+	path = Users/Qhazal-Ebady
+	url = git@github.com:Data-Science-Kharazmi-University/Qhazal-Ebady.git
