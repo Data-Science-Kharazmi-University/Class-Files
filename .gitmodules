@@ -82,3 +82,6 @@
 [submodule "Users/Qazal-Ebady"]
 	path = Users/Qazal-Ebady
 	url = git@github.com:Data-Science-Kharazmi-University/Qazal-Ebady.git
+[submodule "Users/Amirhosein-JVD"]
+	path = Users/Amirhosein-JVD
+	url = git@github.com:Data-Science-Kharazmi-University/Amirhosein-JVD.git
