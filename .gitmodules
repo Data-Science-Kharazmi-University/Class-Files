@@ -85,3 +85,15 @@
 [submodule "Users/Amirhosein-JVD"]
 	path = Users/Amirhosein-JVD
 	url = git@github.com:Data-Science-Kharazmi-University/Amirhosein-JVD.git
+[submodule "Users/Hosein-Ataloo"]
+	path = Users/Hosein-Ataloo
+	url = git@github.com:Data-Science-Kharazmi-University/Hosein-Ataloo.git
+[submodule "Users/Matin-Ahmady"]
+	path = Users/Matin-Ahmady
+	url = git@github.com:Data-Science-Kharazmi-University/Matin-Ahmady.git
+[submodule "Users/MohammadMahdi-Einy"]
+	path = Users/MohammadMahdi-Einy
+	url = git@github.com:Data-Science-Kharazmi-University/MohammadMahdi-Einy.git
+[submodule "Users/Maryam-Mirzaey"]
+	path = Users/Maryam-Mirzaey
+	url = git@github.com:Data-Science-Kharazmi-University/Maryam-Mirzaey.git
