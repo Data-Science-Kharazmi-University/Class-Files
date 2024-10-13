@@ -112,3 +112,6 @@
 [submodule "Users/Sohrab-Mohammady"]
 	path = Users/Sohrab-Mohammady
 	url = git@github.com:Data-Science-Kharazmi-University/Sohrab-Mohammady.git
+[submodule "Users/Kiarash-Hajian"]
+	path = Users/Kiarash-Hajian
+	url = git@github.com:Data-Science-Kharazmi-University/Kiarash-Hajian.git
