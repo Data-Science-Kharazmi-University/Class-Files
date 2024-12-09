@@ -13,9 +13,6 @@
 [submodule "Users/Amirhosein-Kazazy"]
 	path = Users/Amirhosein-Kazazy
 	url = git@github.com:Data-Science-Kharazmi-University/Amirhosein-Kazazy.git
-[submodule "Users/Ali-Amini"]
-	path = Users/Ali-Amini
-	url = git@github.com:Data-Science-Kharazmi-University/Ali-Amini.git
 [submodule "Users/Mahbod-Ghadiry"]
 	path = Users/Mahbod-Ghadiry
 	url = git@github.com:Data-Science-Kharazmi-University/Mahbod-Ghadiry.git
@@ -127,3 +124,6 @@
 [submodule "Users/Amirmahdi-Mohseny"]
 	path = Users/Amirmahdi-Mohseny
 	url = git@github.com:Data-Science-Kharazmi-University/Mohammad-Hafezianzadeh.git
+[submodule "Users/Ali-Aminy"]
+	path = Users/Ali-Aminy
+	url = git@github.com:Data-Science-Kharazmi-University/Ali-Aminy.git
