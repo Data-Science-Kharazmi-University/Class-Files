@@ -121,3 +121,9 @@
 [submodule "Users/Negar-Bahmany"]
 	path = Users/Negar-Bahmany
 	url = git@github.com:Data-Science-Kharazmi-University/Negar-Bahmany.git
+[submodule "Users/Mohammad-Hafezianzadeh"]
+	path = Users/Mohammad-Hafezianzadeh
+	url = git@github.com:Data-Science-Kharazmi-University/Mohammad-Hafezianzadeh.git
+[submodule "Users/Amirmahdi-Mohseny"]
+	path = Users/Amirmahdi-Mohseny
+	url = git@github.com:Data-Science-Kharazmi-University/Mohammad-Hafezianzadeh.git
